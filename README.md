@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ljdallas200
+- 👀 I’m interested in technology, including; cybersecurity and data management 
+- 🌱 I’m currently learning python and kali linux suite of cybersecurity tools
